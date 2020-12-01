@@ -13,6 +13,8 @@ app.use(cors())
 
 //routes
 app.use("/posts" , postRouter)
+// app.use("/posts" , postRouter)
+
 
 
 //mongobd setup 
